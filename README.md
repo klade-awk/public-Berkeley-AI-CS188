@@ -36,7 +36,7 @@
 
 # Berkeley Artificial Intelligence CS188
 
-This project contains the coding projects of edX Edge course [BerkeleyX: CS188X-8 Artificial Intelligence](https://edge.edx.org/courses/BerkeleyX/CS188x-8/Artificial_Intelligence/course/).
+This project contains the coding projects results of the edX Edge course [BerkeleyX: CS188X-8 Artificial Intelligence](https://edge.edx.org/courses/BerkeleyX/CS188x-8/Artificial_Intelligence/course/). Actual code solutions for the exercises are private as the course license does not allow publishing results.
 
 The edx Edge course closes on 31.08.2020. [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/pacman/home.html) 
 has good complementary resources, for example the [Video Lectures](https://inst.eecs.berkeley.edu/~cs188/pacman/lecture_videos.html) or the [Pacman Projects](https://inst.eecs.berkeley.edu/~cs188/pacman/project_overview.html) likely to be available after the course is closed.
